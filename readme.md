@@ -1,0 +1,2 @@
+Esse é o meu primeiro contato com GIT, foi um pouco difícil no início, mas agora estou pegando o jeito.
+Até o momento, o curso está sendo de grande utilidade, pois estou aprendendo coisas novas e aprendendo na prática que é o melhor.
